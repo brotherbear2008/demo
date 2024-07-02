@@ -5,3 +5,4 @@ git 跟踪文件修改。
 nihao
 我才是最新的
 我是 dev 分支
+我现在要测试stash
